@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-size: 562.5%;
+    margin: 90px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a {
+    color: #11999E;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr {
+    border-style:dotted none none;
+    border-color:grey;
+    border-width: 8px;
+    width: 5%;
+}
+
+/*------------------------------ classes ---------------------------*/
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.pro {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.thomas-img {
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+    margin-top: 30px;
+}
+
+.webdev-img {
+    height: 180px;
+    width: 180px;
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+
+.photography-img {
+    height: 180px;
+    width: 180px;
+    width: 25%;
+    float: right;
+    margin: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0px 20px
+}
+
+.contact-me {
+    margin-bottom: 20px;
+}
+.btn {
+    background-color: #66BFBF;
+    color: #FFF;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contact-header {
+    font-weight: 700px;
+}
+
+
+.footer-link {
+    padding-left: 8px;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+/*-------------------------------ID's-------------------------------*/
